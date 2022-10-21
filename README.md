@@ -1,1 +1,89 @@
-# teste
+<br id="inicio">
+
+<h1 align="center">API do 1° Semestre de 2022 do Curso de Logística da FATEC São José dos Campos - Prof. Jessen Vidal </h1>
+ <p align="center">
+     <a href="#sobre">Sobre</a> • 
+     <a href="#requisitos">Requisitos</a> •
+     <a href="#status">Status</a> •
+     <a href="#techtools">Ferramentas e Tecnologias</a> •
+     <a href="#estrutura-pastas">Estrutura digital do projeto </a> • 
+     <a href="#entregas">Entregas</a> • 
+     <a href="#equipe">Equipe</a> 
+</p>
+<span id="equipe">
+
+### :busts_in_silhouette: Equipe:
+Função | Nome | GitHub & LinkedIn
+-------|------|-------------------
+Scrum Master | NOME DO SCRUM MASTER | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://GITHUB DO SCRUM MASTER)<a href="https://LINKEDIN DO SCRUM MASTER " target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a>
+Product Owner | NOME DO P.O. | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://GITHUB DO PO) [<img src=https://LINKEDIN DO PO img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" />](#)
+Dev | NOME DO DEV | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https:GITHUB DO DEV) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" />](https://LINKEDIN DO DEV)
+<a href="#inicio">[Voltar ao início]</a>
+
+<span id="sobre">
+
+### :mag_right: Sobre o projeto:
+ <p>
+  COLOQUE O ASSUNTO DO SEU PROJETO.
+ </p>
+
+<a href="#inicio">[Voltar ao início]</a>
+
+
+<span id="requisitos">
+
+### :clipboard: Requisitos:
+ <p>
+
+Requisitos |  Status 
+-----------|----------
+REQUISITO 1| 
+ REQUISITO 2.|
+REQUISITO 3.|
+  
+
+  
+ </p>
+
+<a href="#inicio">[Voltar ao início]</a>
+ <span id="status">
+
+ ### :bookmark_tabs: Status do projeto: Em Desenvolvimento ✔️	
+  
+ <a href="#inicio">[Voltar ao início]</a>
+  
+ <span id="techtools">
+ 
+ ### :hammer_and_wrench: Ferramentas e Tecnologias
+ - GitHub
+ - Conceito de Posicionamento Lógico: R.H. BALLOU
+ - 5W2H 
+ - Microsoft Power Platform
+  
+ <a href="#inicio">[Voltar ao início]</a>
+ 
+ 
+<span id="estrutura-pastas">
+ 
+### :bar_chart: Estrutura digital do projeto
+ 
+- **TÓPICO 1 EM NEGRITO** CORPO DE TEXTO
+- ** TÓPICO 2 EM NEGRITO ** CORPO DE TEXTO
+- ** TÓPICO 3 EM NEGRITO:** CORPO DE TEXTO
+
+
+<a href="#inicio">[Voltar ao início]</a>
+ 
+<span id="entregas">
+
+### :dart: Entregas
+ 
+Sprint ID | Data | Tag | Status
+----------|------|-----|-------
+#1 | DATA DA PRIMEIRA ENTREGA | <a href="#">Aqui</a> | 
+#2 | 19.09.22 - 09.10.22 | <a href="#">Aqui</a> | 
+#3 | 17.10.22 - 06.11.22 | <a href="#">Aqui</a> |  
+#4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |  
+
+<a href="#inicio">[Voltar ao início]</a>
+
