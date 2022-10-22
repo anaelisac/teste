@@ -12,7 +12,7 @@
  
  # Autores
 
-| [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png?raw=true](https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png)" width=115><br><sub>Ana Elisa Costa</sub>] |  [<img src="https:bry temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| <img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png?raw=true](https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png)" width=115><br><sub>Ana Elisa Costa</sub> |  [<img src="https:bry temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg?raw=true)](https://github.com/bryanrosario) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
  
 </p>
