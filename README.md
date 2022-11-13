@@ -12,7 +12,7 @@
  
  # Autores
  
- [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub>](https://github.com/anaelisac) 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub>width=115><br><sub>Scrum Master</sub>](https://github.com/anaelisac) 
  
  [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>](https://github.com/caylaneraissa) 
  
