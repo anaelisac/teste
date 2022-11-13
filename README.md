@@ -12,9 +12,9 @@
  
  # Autores
 
-<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg?raw=true" width=115><br><sub>Bryan Rosário</sub> |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |  [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>] |
+<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg?raw=true" width=115><br><sub>Bryan Rosário</sub> |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) 
  
-| :---: | :---: | :---: |
+
  
 </p>
 <span id="equipe">
