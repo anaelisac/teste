@@ -97,19 +97,3 @@ Sprint ID | Data | Tag | Status
 
 <a href="#inicio">[Voltar ao início]</a>
 
-ryan Rosário
-
-Dev Team
-
-Caylane Raíssa
-
-Product Owner
-
-Ana Elisa Costa
-
-Scrum Master
-![](Aspose.Words.d8a57bcb-49e6-43db-a806-2c9cb47ca2e5.001.png)![](Aspose.Words.d8a57bcb-49e6-43db-a806-2c9cb47ca2e5.002.png)![](Aspose.Words.d8a57bcb-49e6-43db-a806-2c9cb47ca2e5.003.png)![Temporária.jpg](Aspose.Words.d8a57bcb-49e6-43db-a806-2c9cb47ca2e5.004.jpeg)![temporária Cay.jpg](Aspose.Words.d8a57bcb-49e6-43db-a806-2c9cb47ca2e5.005.jpeg)  ![temporaria Bry.jpg](Aspose.Words.d8a57bcb-49e6-43db-a806-2c9cb47ca2e5.006.jpeg) 
-
-
-
-
