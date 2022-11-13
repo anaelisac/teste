@@ -15,6 +15,8 @@
  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe)
  
  [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub>](https://github.com/anaelisac) 
+ 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>](https://github.com/caylaneraissa) 
 
  
 </p>
