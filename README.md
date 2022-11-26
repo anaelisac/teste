@@ -13,8 +13,11 @@
  # Autores
  ### :busts_in_silhouette: Equipe:
 
- -------------|----------------|-------------
- [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac)|[<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>](https://github.com/caylaneraissa)|[<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario) 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac)
+ 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>](https://github.com/caylaneraissa)
+ 
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario) 
 
  
 </p>
@@ -93,7 +96,7 @@ REQUISITO 3.|
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
 #1 | DATA DA PRIMEIRA ENTREGA | <a href="#">Aqui</a> | 
-#2 | 19.09.22 - 09.10.22 | <a href="#">Aqui</a> | 
+#2 | 19.09.22 - 09.10.22 | <a href="#">https://docs.google.com/presentation/d/17rwTee7pse5jXq31HDRbloESXkWf-d6v/edit?usp=sharing&ouid=113463413166897699986&rtpof=true&sd=true</a> | 
 #3 | 17.10.22 - 06.11.22 | <a href="#">Aqui</a> |  
 #4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |  
 
