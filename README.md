@@ -12,7 +12,6 @@
  <h1>Primeiro título em HTML</h1>
  
  # Autores
- ### :busts_in_silhouette: Equipe:
 
  ### :busts_in_silhouette: Equipe:
  Scrum Master | Product Owner | Dev | Dev | Dev |
