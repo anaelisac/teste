@@ -9,14 +9,13 @@
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#estrutura-pastas">Estrutura digital do projeto </a> • 
      <a href="#entregas">Entregas</a> • 
- <h1>Primeiro título em HTML</h1>
  
  # Autores
 
  ### :busts_in_silhouette: Equipe:
  Scrum Master | Product Owner | Dev | Dev | Dev |
  -------------|---------------|-----|-----|-----|
- [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac) | [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>](https://github.com/caylaneraissa) | [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario) | [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila</sub><br><sub>Dev</sub>](https://github.com/caylaneraissa) | [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan</sub><br><sub>Dev</sub>](https://github.com/bryanrosario)
+ [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac) | [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub>](https://github.com/caylaneraissa) | [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub>](https://github.com/bryanrosario) | [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila</sub>](https://github.com/caylaneraissa) | [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan</sub>](https://github.com/bryanrosario)
 
 </p>
  
